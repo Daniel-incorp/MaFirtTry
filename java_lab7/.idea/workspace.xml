@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e884aed-6ea1-4647-b98f-18a4adafced0" name="Default Changelist" comment=".gitignore был удалён">
+      <change beforePath="$PROJECT_DIR$/../java_lab4_and_5_and_6/out/production/java_lab4_and_5_and_6/FractalExplorer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java_lab4_and_5_and_6/out/production/java_lab4_and_5_and_6/FractalExplorer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_lab4_and_5_and_6/src/FractalExplorer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_lab4_and_5_and_6/src/FractalExplorer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_lab8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_lab8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_lab8/out/production/java_lab8/Crawl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java_lab8/out/production/java_lab8/Crawl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_lab8/src/Crawl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_lab8/src/Crawl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\IntelliJ IDEA Community Edition 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k39mdtLdkXG6ZQzO4vUzXqOoRI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyFirstAttemmpptt" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Crawl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Crawl" />
+      <module name="java_lab7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Crawl" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e884aed-6ea1-4647-b98f-18a4adafced0" name="Default Changelist" comment="" />
+      <created>1604918568044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604918568044</updated>
+    </task>
+    <task id="LOCAL-00001" summary="lab7 kinda done&#10;TODO:&#10;   1)Больше комментариев и разделения на методы&#10;   2)Основное задание + некоторые дополнительные выполнены. Оставшиеся доп. задания - расширить поиск ссылок?; многопоточность скорее всего надо было сделать по другому; запись ссылок в базу данных?; алгоритм &quot;поиска смысла&quot;">
+      <created>1605990751449</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605990751449</updated>
+    </task>
+    <task id="LOCAL-00002" summary="lab7 kinda done&#10;TODO:&#10;   1)Больше комментариев и разделения на методы&#10;   2)Основное задание + некоторые дополнительные выполнены. Оставшиеся доп. задания - расширить поиск ссылок?; многопоточность скорее всего надо было сделать по другому; запись ссылок в базу данных?; алгоритм &quot;поиска смысла&quot; &#10;   &#10;   P.s. Скорее всего много будет переделано">
+      <created>1605990824406</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605990824406</updated>
+    </task>
+    <task id="LOCAL-00003" summary="lab7 kinda done again (1.0)&#10;TODO:&#10;   1)Больше комментариев и разделения на методы&#10;   2)Основное задание + некоторые дополнительные выполнены. Оставшиеся доп. задания - запись ссылок в базу данных?; алгоритм &quot;поиска смысла&quot; &#10;   &#10;   P.s. Не сломалось при трёх последоваетльных запусках = 1.0 :)">
+      <created>1606053112721</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606053112721</updated>
+    </task>
+    <task id="LOCAL-00004" summary="lab7 kinda done again (1.0)&#10;TODO:&#10;   1)Больше комментариев и разделения на методы&#10;   2)Основное задание + некоторые дополнительные выполнены. Оставшиеся доп. задания - запись ссылок в базу данных?; алгоритм &quot;поиска смысла&quot; &#10;   &#10;   P.s. Не сломалось при трёх последоваетльных запусках = 1.0 :)">
+      <created>1606053267828</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606053267828</updated>
+    </task>
+    <task id="LOCAL-00005" summary=".gitignore был удалён">
+      <created>1608049939822</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608049939822</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lab7 kinda done&#10;TODO:&#10;   1)Больше комментариев и разделения на методы&#10;   2)Основное задание + некоторые дополнительные выполнены. Оставшиеся доп. задания - расширить поиск ссылок?; многопоточность скорее всего надо было сделать по другому; запись ссылок в базу данных?; алгоритм &quot;поиска смысла&quot;" />
+    <MESSAGE value="lab7 kinda done&#10;TODO:&#10;   1)Больше комментариев и разделения на методы&#10;   2)Основное задание + некоторые дополнительные выполнены. Оставшиеся доп. задания - расширить поиск ссылок?; многопоточность скорее всего надо было сделать по другому; запись ссылок в базу данных?; алгоритм &quot;поиска смысла&quot; &#10;   &#10;   P.s. Скорее всего много будет переделано" />
+    <MESSAGE value="lab7 kinda done again (1.0)&#10;TODO:&#10;   1)Больше комментариев и разделения на методы&#10;   2)Основное задание + некоторые дополнительные выполнены. Оставшиеся доп. задания - запись ссылок в базу данных?; алгоритм &quot;поиска смысла&quot; &#10;   &#10;   P.s. Не сломалось при трёх последоваетльных запусках = 1.0 :)" />
+    <MESSAGE value=".gitignore был удалён" />
+    <option name="LAST_COMMIT_MESSAGE" value=".gitignore был удалён" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="637" y="265" key="#Console" timestamp="1606050745801">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="637" y="265" key="#Console/0.0.1920.1040@0.0.1920.1040" timestamp="1606050745801" />
+    <state x="461" y="117" key="#Project_Structure" timestamp="1608052034626">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="117" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1608052034626" />
+    <state x="414" y="0" width="1092" height="1040" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608053996342">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="0" width="1092" height="1040" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608053996342" />
+    <state x="290" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1608037955781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="290" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1608037955781" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606043019991">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606043019991" />
+    <state x="707" y="375" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1608052293820">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="707" y="375" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1608052293820" />
+    <state width="458" height="466" key="DebuggerActiveHint" timestamp="1605985927176">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="458" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1605985927176" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1605996350893">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605996350893" />
+    <state x="827" y="102" width="265" height="798" key="EnvironmentVariablesDialog" timestamp="1608051924116">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="827" y="102" width="265" height="798" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608051924116" />
+    <state x="265" y="275" key="FileChooserDialogImpl" timestamp="1608619024622">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="265" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608619024622" />
+    <state width="1877" height="137" key="GridCell.Tab.0.bottom" timestamp="1608055042235">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="137" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608055042235" />
+    <state width="1877" height="137" key="GridCell.Tab.0.center" timestamp="1608055042235">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="137" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608055042235" />
+    <state width="1877" height="137" key="GridCell.Tab.0.left" timestamp="1608055042235">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="137" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608055042235" />
+    <state width="1877" height="137" key="GridCell.Tab.0.right" timestamp="1608055042235">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="137" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608055042235" />
+    <state width="1877" height="137" key="GridCell.Tab.1.bottom" timestamp="1608055042236">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="137" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608055042236" />
+    <state width="1877" height="137" key="GridCell.Tab.1.center" timestamp="1608055042235">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="137" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608055042235" />
+    <state width="1877" height="137" key="GridCell.Tab.1.left" timestamp="1608055042235">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="137" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608055042235" />
+    <state width="1877" height="137" key="GridCell.Tab.1.right" timestamp="1608055042235">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="137" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608055042235" />
+    <state x="728" y="222" key="RollbackChangesDialog" timestamp="1605996024153">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="728" y="222" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605996024153" />
+    <state x="505" y="124" width="998" height="708" key="SettingsEditor" timestamp="1608053984709">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="505" y="124" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1608053984709" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608049947007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608049947007" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1605036327384">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1605036327384" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605995990106">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605995990106" />
+    <state x="500" y="256" width="919" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1606045714826">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="500" y="256" width="919" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1606045714826" />
+    <state x="175" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1608038734539">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="175" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1608038734539" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="31" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="bufferedReader.cb" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
